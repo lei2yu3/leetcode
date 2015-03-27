@@ -5,6 +5,7 @@ code of leetcode
 | #   | Title | Code |
 | :---: |:---------------------:| :----:|
 |  | []() | []() |
+| 67 | [Add Binary ](https://leetcode.com/problems/add-binary/) | [C++](https://github.com/lygithub/leetcode/blob/master/AddBinary.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](https://github.com/lygithub/leetcode/blob/master/MultiplyStrings.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/lygithub/leetcode/blob/master/SearchInsertPosition.cpp) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](https://github.com/lygithub/leetcode/blob/master/ExcelSheetColumnTitle.cpp) |
