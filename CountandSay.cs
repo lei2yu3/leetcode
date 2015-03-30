@@ -1,5 +1,5 @@
 public class Solution {
-    public String getNext(string n)
+    public string getNext(string n)
         {
             int count = 0;  // 计数器
             char value = '\0';  // say
@@ -22,7 +22,13 @@ public class Solution {
                 }
                 else
                 {
-                    ret += count;
+                    
+                    // when cast int to string in C++, include “sstream”
+                    // stringstream ss;
+                    // ss << count;
+                    // ret += ss.str();
+                    // ss.clear();
+                    ret += count; // C++
                     ret += value;
                     
                     value = n[i];
@@ -33,16 +39,15 @@ public class Solution {
             // 超出字符串长度时
             if (count > 0 && value > 0)
             {
-                ret += count;
+                ret += count; // C++
                 ret += value;
             }
 
             return ret;
         }
 
-        public String CountAndSay(int n)
+        public string CountAndSay(int n)
         {
-
             if (n < 1) return "";
             if (n == 1) return "1";
 
