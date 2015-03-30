@@ -5,7 +5,7 @@ code of leetcode
 | #   | Title | Code |
 | :---: |:---------------------:| :----:|
 |  | []() | []() |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C#](https://github.com/lygithub/leetcode/blob/master/CountandSay.cs) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C#](https://github.com/lygithub/leetcode/blob/master/CountAndSay.cs) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](https://github.com/lygithub/leetcode/blob/master/AddBinary.cpp) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](https://github.com/lygithub/leetcode/blob/master/MultiplyStrings.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/lygithub/leetcode/blob/master/SearchInsertPosition.cpp) |
