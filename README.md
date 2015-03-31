@@ -3,8 +3,9 @@ code of leetcode
 
 
 | #   | Title | Code |
-| :---: |:---------------------:| :----:|
-|  | []() | []() |
+| :---: | :---------------------: | :----: |
+|  |  |  |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](https://github.com/lygithub/leetcode/blob/master/SqrtX.cpp) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](https://github.com/lygithub/leetcode/blob/master/PowXN.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](https://github.com/lygithub/leetcode/blob/master/Subsets.cpp) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C#](https://github.com/lygithub/leetcode/blob/master/CountAndSay.cs) |
