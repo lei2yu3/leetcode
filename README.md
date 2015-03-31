@@ -5,6 +5,7 @@ code of leetcode
 | #   | Title | Code |
 | :---: |:---------------------:| :----:|
 |  | []() | []() |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](https://github.com/lygithub/leetcode/blob/master/PowXN.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](https://github.com/lygithub/leetcode/blob/master/Subsets.cpp) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C#](https://github.com/lygithub/leetcode/blob/master/CountAndSay.cs) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](https://github.com/lygithub/leetcode/blob/master/AddBinary.cpp) |
