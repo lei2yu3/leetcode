@@ -4,7 +4,8 @@ code of leetcode
 
 | #   | Title | Code |
 | :---: | :---------------------: | :----: |
-|  |  |  |
+|  | []() | []() |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C#](https://github.com/lygithub/leetcode/blob/master/NumberOf1Bits.cs) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](https://github.com/lygithub/leetcode/blob/master/SqrtX.cpp) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](https://github.com/lygithub/leetcode/blob/master/PowXN.cpp) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](https://github.com/lygithub/leetcode/blob/master/Subsets.cpp) |
