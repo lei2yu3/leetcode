@@ -5,6 +5,7 @@ code of leetcode
 | #   | Title | Code |
 | :---: | :---------------------: | :----: |
 |  | []() | []() |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](https://github.com/lygithub/leetcode/blob/master/ClimbingStairs.cpp) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [C++](https://github.com/lygithub/leetcode/blob/master/GrayCode.cpp) |
 | 33 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C#](https://github.com/lygithub/leetcode/blob/master/SearchForARangecs) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C#](https://github.com/lygithub/leetcode/blob/master/NumberOf1Bits.cs) |
