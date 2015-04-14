@@ -5,6 +5,7 @@ code of leetcode
 | # | Title | Code |
 |:-:| :---: | :--: |
 |  | []() | []() |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C#](https://github.com/lygithub/leetcode/blob/master/FindMinimumInRotatedSortedArray.cs) |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C#](https://github.com/lygithub/leetcode/blob/master/RotateList.cs) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C#](https://github.com/lygithub/leetcode/blob/master/RotateImage.cs) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](https://github.com/lygithub/leetcode/blob/master/ClimbingStairs.cpp) |
