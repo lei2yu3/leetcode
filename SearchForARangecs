@@ -1,3 +1,22 @@
+/*
+
+Given a sorted array of integers, find the starting and ending position of a given target value.
+
+Your algorithm's runtime complexity must be in the order of O(log n).
+
+If the target is not found in the array, return [-1, -1].
+
+For example,
+Given [5, 7, 7, 8, 8, 10] and target value 8,
+return [3, 4].
+
+二分查找
+
+先找到目标，再分别对目标的左半区[0, target - 1]和右半区[target + 1, A.Length - 1]进行二分查找
+
+*/
+
+
 public class Solution {
     
     public int[] SearchRange(int[] A, int target)
