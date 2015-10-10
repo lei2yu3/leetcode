@@ -1,3 +1,18 @@
+/*
+
+Given two binary strings, return their sum (also a binary string).
+
+For example,
+a = "11"
+b = "1"
+Return "100".
+
+二进制相加求和
+需要注意位数和进位
+
+*/
+
+
 class Solution {
 public:
     string addBinary(string a, string b) {
