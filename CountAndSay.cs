@@ -1,3 +1,27 @@
+/*
+
+The count-and-say sequence is the sequence of integers beginning as follows:
+1, 11, 21, 1211, 111221, ...
+
+1 is read off as "one 1" or 11.
+11 is read off as "two 1s" or 21.
+21 is read off as "one 2, then one 1" or 1211.
+Given an integer n, generate the nth sequence.
+
+Note: The sequence of integers will be represented as a string.
+
+字符串的读取
+特殊处理首位字符和超出输入字符长度时
+
+C++整型转换string时，需#include "sstream"
+stringstream ss;
+ss << count;
+ret += ss.str();
+ss.clear();
+
+*/
+
+
 public class Solution {
     public string getNext(string n)
     {
