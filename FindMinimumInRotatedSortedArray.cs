@@ -1,3 +1,19 @@
+/*
+
+Suppose a sorted array is rotated at some pivot unknown to you beforehand.
+
+(i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).
+
+Find the minimum element.
+
+You may assume no duplicate exists in the array.
+
+右旋数组查找最小值
+
+二分查找，比较left，right，mid的大小
+
+*/
+
 public class Solution {
     public int FindMin(int[] num)
     {
