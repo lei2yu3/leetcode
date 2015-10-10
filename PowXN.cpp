@@ -1,3 +1,17 @@
+/*
+
+Implement pow(x, n).
+
+当n为负数时
+当n为MAX_INT(2147483647) or MIN_INT(-2147483648)时
+
+如果n为 奇数，result *= x
+如果n为偶数，x = x*x and n = n>>1
+这样可以加快n减少的速度
+
+*/
+
+
 class Solution {
 public:
     double pow(double x, int n) {
