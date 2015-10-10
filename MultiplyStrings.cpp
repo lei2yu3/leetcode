@@ -1,3 +1,15 @@
+/*
+
+Given two numbers represented as strings, return multiplication of the numbers as a string.
+
+Note: The numbers can be arbitrarily large and are non-negative.
+
+大数字乘法
+按照乘法规则进行按位相乘，得到的积逐位相加，大于九则向高位进位
+
+*/
+
+
 class Solution {
 public:
     string multiply(string num1, string num2) {
