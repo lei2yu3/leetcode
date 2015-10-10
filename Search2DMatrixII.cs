@@ -24,6 +24,24 @@ Given target = 20, return false.
 
 public class Solution {
     public bool SearchMatrix(int[,] matrix, int target) {
-        
+        if (matrix == null || matrix.Length < 1)
+            {
+                return false;
+            }
+            
+            int col = matrix.GetLength(1) - 1;
+            int row = 0;
+
+            while ((row <= (matrix.GetLength(0) - 1)) && (col >= 0))
+            {
+                if (target < matrix[row, col])
+                    col--;
+                else if (target > matrix[row, col])
+                    row++;
+                else
+                    return true;
+            }
+
+            return false;
     }
 }
