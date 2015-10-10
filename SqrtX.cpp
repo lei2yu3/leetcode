@@ -1,3 +1,18 @@
+/*
+
+Implement int sqrt(int x).
+
+Compute and return the square root of x.
+
+计算整数的平方根
+
+平方根不大于x / 2 + 1
+从1~(x / 2 + 1)，折半查找
+如果abs(temp - x / temp) < ACCURACY，则成功，精度ACCURACY可以为任意小数
+
+*/
+
+
 class Solution {
 public:
     int sqrt(int x) {
