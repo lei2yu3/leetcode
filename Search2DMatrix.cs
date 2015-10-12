@@ -20,6 +20,12 @@ Given target = 3, return true.
 先对第一列进行查找，定位到比target大的数的前一行
 再对这一行进行查找
 
+把这个二维数组当作是一维的有序数列进行二分查找
+n * m matrix convert to an array => matrix[x][y] => a[x * m + y]
+an array convert to n * m matrix => a[x] =>matrix[x / m][x % m];
+
+https://leetcode.com/discuss/10735/dont-treat-it-as-a-2d-matrix-just-treat-it-as-a-sorted-list
+
 */
 
 
