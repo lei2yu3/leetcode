@@ -22,7 +22,8 @@ Reduce them to a single space in the reversed string.
 public class Solution {
     public string ReverseWords(string s)
     {
-
-        return s;
+        var sc = s.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(p => p.Trim()).ToArray();
+        Array.Reverse(sc);
+        return string.Join(" ", sc).Trim();
     }
 }
