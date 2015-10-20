@@ -8,7 +8,7 @@ code of leetcode
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C#](https://github.com/lygithub/leetcode/blob/master/4Sum.cs) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](https://github.com/lygithub/leetcode/blob/master/3Sum.cs) |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C#](https://github.com/lygithub/leetcode/blob/master/3SumClosest.cs) |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C#](https://github.com/lygithub/leetcode/edit/master/ReverseWordsInString.cs) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C#](https://github.com/lygithub/leetcode/blob/master/ReverseWordsInString.cs) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C#](https://github.com/lygithub/leetcode/blob/master/Search2DMatrix.cs) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [C#](https://github.com/lygithub/leetcode/blob/master/Search2DMatrixII.cs) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C#](https://github.com/lygithub/leetcode/blob/master/FindMinimumInRotatedSortedArray.cs) |
