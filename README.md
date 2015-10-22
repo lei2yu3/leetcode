@@ -5,6 +5,10 @@ code of leetcode
 | # | Problem | Code |
 |:-:| :-----: | :--: |
 |  | []() | []() |
+| 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockIV.cs) |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockIII.cs) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockII.cs) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStock.cs) |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C#](https://github.com/lygithub/leetcode/blob/master/TwoSum.cs) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [C#](https://github.com/lygithub/leetcode/blob/master/4Sum.cs) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](https://github.com/lygithub/leetcode/blob/master/3Sum.cs) |
