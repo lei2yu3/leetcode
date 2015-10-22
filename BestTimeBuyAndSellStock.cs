@@ -6,25 +6,27 @@ If you were only permitted to complete at most one transaction (ie, buy one and 
 
 design an algorithm to find the maximum profit.
 
-数组第i个元素表示货物第i天的价格，进行一次买入和一次卖出，使得收益做大
+数组第i个元素表示货物第i天的价格，进行一次买入和一次卖出，使得收益最大
 
-
+每次循环，取得到目前为止的最小价格(minimum stock price)和最大收益(maximum profit)
 
 */
 
 
 public class Solution {
     public int MaxProfit(int[] prices) {
-        int ret = 0;
-        if (prices.Length <= 1) return ret;
+        int maxProfit = 0;
+        if (prices.Length <= 1) return maxProfit;
         
-        int min = prices[0];
+        int minStock = prices[0];
         for (int i = 0; i < prices.Length; i++)
         {
-            min = Math.Min(min, prices[i]);
-            ret = Math.Max(ret, prices[i] - min);
+            // if(prices[i] < minStock) minStock = prices[i];
+            minStock = Math.Min(minStock, prices[i]);
+            // if(prices[i] - minStock > maxProfit) maxProfit = prices[i] - minStock;
+            maxProfit = Math.Max(maxProfit, prices[i] - minStock);
         }
         
-        return ret;   
+        return maxProfit;   
     }
 }
