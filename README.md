@@ -5,6 +5,7 @@ code of leetcode
 | # | Problem | Code |
 |:-:| :-----: | :--: |
 |  | []() | []() |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C#](https://github.com/lygithub/leetcode/blob/master/EvaluateReversePolishNotation.cs) |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockIV.cs) |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockIII.cs) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BestTimeBuyAndSellStockII.cs) |
