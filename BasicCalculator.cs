@@ -12,4 +12,13 @@ Some examples:
 "(1+(4+5+2)-3)+(6+8)" = 23
 Note: Do not use the eval built-in library function.
 
+正整数的加减运算
+
 */
+
+
+public class Solution {
+    public int Calculate(string s) {
+        
+    }
+}
