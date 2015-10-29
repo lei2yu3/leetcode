@@ -1,8 +1,8 @@
 # Code of LeetCode
 
 
-| # | Problem | Code |
-|:-:| :-----: | :--: |
+| # | Problem | Solution |
+|:-:| :-----: | :------: |
 |  | []() | []() |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BasicCalculatorII.cs) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C#](https://github.com/lygithub/leetcode/blob/master/BasicCalculator.cs) |
