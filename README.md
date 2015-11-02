@@ -1,9 +1,14 @@
 # Code of LeetCode
 
+[README.md](https://github.com/lygithub/leetcode/blob/master/README.md)
 
 | # | Problem | Solution |
 |:-:| :-----: | :------: |
 |  | []() | []() |
+|  | []() | []() |
+|  | []() | []() |
+|  | []() | []() |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/lygithub/leetcode/blob/master/MoveZeroes.cs) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C#](https://github.com/lygithub/leetcode/blob/master/BasicCalculatorII.cs) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C#](https://github.com/lygithub/leetcode/blob/master/BasicCalculator.cs) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C#](https://github.com/lygithub/leetcode/blob/master/EvaluateReversePolishNotation.cs) |
