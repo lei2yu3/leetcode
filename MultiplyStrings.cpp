@@ -10,9 +10,11 @@ Note: The numbers can be arbitrarily large and are non-negative.
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    string multiply(string num1, string num2) {
+    string multiply(string num1, string num2) 
+    {
         if (num1.size() <= 0 || num2.size() <= 0) 
             return "";
     
