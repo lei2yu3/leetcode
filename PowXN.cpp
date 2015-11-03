@@ -12,9 +12,11 @@ Implement pow(x, n).
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    double pow(double x, int n) {
+    double pow(double x, int n)
+    {
     
         if (x == 0) return 0.0;
         if (n == 0) return 1;
@@ -22,7 +24,8 @@ public:
         unsigned int exp = n;
         
         // n is negtive
-        if(n < 0){
+        if(n < 0)
+        {
             exp = -n;
             x = 1.0 / x;
         }
