@@ -17,8 +17,10 @@ http://www.cnblogs.com/chrischennx/p/4009376.html
 
 */
 
-public class Solution {
-    public void Rotate(int[,] matrix) {
+public class Solution 
+{
+    public void Rotate(int[,] matrix) 
+    {
         
         int N = matrix.GetLength(0);
         int temp = 0;
@@ -47,6 +49,5 @@ public class Solution {
                 }
             }
         }
-        
     }
 }
