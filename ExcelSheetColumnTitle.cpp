@@ -20,9 +20,11 @@ string.begin() 获取字符串首位的字符
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    string convertToTitle(int n) {
+    string convertToTitle(int n) 
+    {
         string s;
         
         while(n > 0)
