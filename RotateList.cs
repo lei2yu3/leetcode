@@ -13,7 +13,8 @@ return 4->5->1->2->3->NULL.
 */
 
 
-public class Solution {
+public class Solution 
+{
     public ListNode RotateRight(ListNode head, int k)
     {
         if (head == null || k <= 0)
