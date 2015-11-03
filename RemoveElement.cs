@@ -16,7 +16,6 @@ public class Solution
 {
     public int RemoveElement(int[] nums, int val) 
     {
-        
         int count = 0;
         int a = 0;
         
