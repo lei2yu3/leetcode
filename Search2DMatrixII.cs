@@ -31,8 +31,10 @@ https://leetcode.com/discuss/48852/my-concise-o-m-n-java-solution
 */
 
 
-public class Solution {
-    public bool SearchMatrix(int[,] matrix, int target) {
+public class Solution 
+{
+    public bool SearchMatrix(int[,] matrix, int target) 
+    {
         if (matrix == null || matrix.Length < 1)
             {
                 return false;
