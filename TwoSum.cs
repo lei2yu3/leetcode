@@ -18,9 +18,10 @@ Output: index1=1, index2=2
 */
 
 
-public class Solution {
-    public int[] TwoSum(int[] nums, int target) {
-        
+public class Solution 
+{
+    public int[] TwoSum(int[] nums, int target) 
+    {
         int[] ret = new int[2] { 0, 0 };
         if (nums == null || nums.Length < 2)
         {
