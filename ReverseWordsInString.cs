@@ -24,7 +24,8 @@ https://leetcode.com/discuss/40615/please-help-c%23-strange-wa-on-a-b
 */
 
 
-public class Solution {
+public class Solution 
+{
     public string ReverseWords(string s)
     {
         var sc = s.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Select(p => p.Trim()).ToArray();
