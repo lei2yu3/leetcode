@@ -29,7 +29,8 @@ N=3时, 子集个数2^N = 8个，子集 = {{}, {1}, {2}, {3}, {1,2}, {1,3}, {2,3
 */
 
 
-class Solution {
+class Solution 
+{
 public:
     vector<vector<int>> subsets(vector<int> &S)
     {
