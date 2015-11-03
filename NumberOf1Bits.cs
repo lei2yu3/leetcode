@@ -11,7 +11,8 @@ For example, the 32-bit integer ’11' has binary representation 000000000000000
 */
 
 
-public class Solution {
+public class Solution 
+{
     public int HammingWeight(uint n) 
     {
         int ret = 0;
