@@ -19,9 +19,10 @@ https://github.com/lygithub/leetcode/blob/master/3SumClosest.cs
 
 */
 
-public class Solution {
-    public IList<IList<int>> ThreeSum(int[] nums) {
-        
+public class Solution 
+{
+    public IList<IList<int>> ThreeSum(int[] nums) 
+    {
         IList<IList<int>> ll = new List<IList<int>>();
         
         if (nums == null || nums.Length < 3)
