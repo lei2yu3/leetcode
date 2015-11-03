@@ -13,9 +13,11 @@ Return "100".
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    string addBinary(string a, string b) {
+    string addBinary(string a, string b) 
+    {
         int sizeA = a.length();
         int sizeB = b.length();
         int sizeSum = sizeA >= sizeB ? sizeA + 1 : sizeB + 1;
@@ -38,5 +40,5 @@ public:
             return &stringSum[1];
         
         return stringSum;
-        }
+    }
 };
