@@ -17,7 +17,8 @@ return [3, 4].
 */
 
 
-public class Solution {
+public class Solution 
+{
     
     public int[] SearchRange(int[] A, int target)
     {
