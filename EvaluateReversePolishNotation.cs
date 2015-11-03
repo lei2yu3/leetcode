@@ -16,8 +16,10 @@ https://en.wikipedia.org/wiki/Reverse_Polish_notation
 */
 
 
-public class Solution {
-    public int EvalRPN(string[] tokens) {
+public class Solution 
+{
+    public int EvalRPN(string[] tokens) 
+    {
         if (tokens.Length < 1)
             return 0;
         if (tokens.Length == 1)
