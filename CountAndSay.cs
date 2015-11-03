@@ -22,7 +22,8 @@ ss.clear();
 */
 
 
-public class Solution {
+public class Solution 
+{
     public string getNext(string n)
     {
         int count = 0;  // 计数器
