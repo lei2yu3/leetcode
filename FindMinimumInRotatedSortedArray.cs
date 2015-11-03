@@ -14,7 +14,8 @@ You may assume no duplicate exists in the array.
 
 */
 
-public class Solution {
+public class Solution 
+{
     public int FindMin(int[] num)
     {
         int left = 0;
