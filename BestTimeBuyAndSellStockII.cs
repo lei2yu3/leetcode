@@ -18,9 +18,10 @@ However, you may not engage in multiple transactions at the same time
 */
 
 
-public class Solution {
-    public int MaxProfit(int[] prices) {
-        
+public class Solution 
+{
+    public int MaxProfit(int[] prices) 
+    {
         int profit = 0;
         if (prices.Length < 2) return profit;
         
