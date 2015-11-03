@@ -44,9 +44,11 @@ unsigned int grayToBinary(unsigned int num)
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    vector<int> grayCode(int n) {
+    vector<int> grayCode(int n) 
+    {
         vector<int> ret; 
     
         for (unsigned int i = 0; i < (1 << n); i++)
