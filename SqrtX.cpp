@@ -13,9 +13,11 @@ Compute and return the square root of x.
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    int sqrt(int x) {
+    int sqrt(int x) 
+    {
     
         if (x <= 0) return 0;
         if (x < 4) return 1;
