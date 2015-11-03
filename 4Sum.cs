@@ -20,8 +20,10 @@ https://github.com/lygithub/leetcode/blob/master/3Sum.cs
 */
 
 
-public class Solution {
-    public IList<IList<int>> FourSum(int[] nums, int target) {
+public class Solution 
+{
+    public IList<IList<int>> FourSum(int[] nums, int target) 
+    {
         IList<IList<int>> ret = new List<IList<int>>();
         if (nums == null || nums.Length < 4)
         {
