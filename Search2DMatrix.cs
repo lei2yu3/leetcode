@@ -29,8 +29,10 @@ https://leetcode.com/discuss/10735/dont-treat-it-as-a-2d-matrix-just-treat-it-as
 */
 
 
-public class Solution {
-    public bool SearchMatrix(int[,] matrix, int target) {
+public class Solution 
+{
+    public bool SearchMatrix(int[,] matrix, int target) 
+    {
         if (matrix == null || matrix.Length < 1)
         {
             return false;
