@@ -14,9 +14,11 @@ Your function should return length = 2, and A is now [1,2].
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    int removeDuplicates(int A[], int n) {
+    int removeDuplicates(int A[], int n) 
+    {
         if(n == 0) return 0;
        
         int m = 1;
