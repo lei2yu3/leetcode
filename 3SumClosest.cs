@@ -36,8 +36,10 @@ https://leetcode.com/discuss/6438/a-n-2-solution-can-we-do-better
 */
 
 
-public class Solution {
-    public int ThreeSumClosest(int[] nums, int target) {
+public class Solution 
+{
+    public int ThreeSumClosest(int[] nums, int target) 
+    {
         if (nums == null || nums.Length < 3)
         {
             return System.Int16.MaxValue;
