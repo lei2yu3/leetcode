@@ -13,8 +13,10 @@ design an algorithm to find the maximum profit.
 */
 
 
-public class Solution {
-    public int MaxProfit(int[] prices) {
+public class Solution
+{
+    public int MaxProfit(int[] prices) 
+    {
         int maxProfit = 0;
         if (prices.Length <= 1) return maxProfit;
         
