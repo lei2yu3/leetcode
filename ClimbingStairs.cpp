@@ -12,9 +12,11 @@ http://blog.csdn.net/wangshihui512/article/details/9672471
 */
 
 
-class Solution {
+class Solution 
+{
 public:
-    int climbStairs(int n) {
+    int climbStairs(int n) 
+    {
         if (n < 2) return n;
 
         int fib1 = 1;
