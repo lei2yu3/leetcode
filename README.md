@@ -6,7 +6,7 @@
 |:-:| :-----: | :------: |
 |  | []() | []() |
 |  | []() | []() |
-| 263 | [https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/lygithub/leetcode/blob/master/UglyNumber.cs) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/lygithub/leetcode/blob/master/UglyNumber.cs) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](https://github.com/lygithub/leetcode/blob/master/ValidParentheses.cs) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C#](https://github.com/lygithub/leetcode/blob/master/RemoveElement.cs) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C#](https://github.com/lygithub/leetcode/blob/master/MoveZeroes.cs) |
