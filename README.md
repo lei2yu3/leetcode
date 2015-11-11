@@ -5,7 +5,7 @@
 | # | Problem | Solution |
 |:-:| :-----: | :------: |
 |  | []() | []() |
-|  | []() | []() |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/lygithub/leetcode/blob/master/AddTwoNumbers.cs) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/lygithub/leetcode/blob/master/UglyNumber.cs) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C#](https://github.com/lygithub/leetcode/blob/master/ValidParentheses.cs) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C#](https://github.com/lygithub/leetcode/blob/master/RemoveElement.cs) |
