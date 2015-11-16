@@ -12,6 +12,13 @@ You must use only standard operations of a stack -- which means only push to top
 You may simulate a stack by using a list or deque (double-ended queue), as long as you use only standard operations of a stack.
 You may assume that all operations are valid (for example, no pop or peek operations will be called on an empty queue).
 
+用栈实现队列
+
+使用两个栈，input用于入队，output用于出队。入队时直接向input栈push。
+获取栈顶时如果outpu栈不为空则直接返回output栈顶；
+如果outpu栈为空则需要将input中的元素出栈，并将这些元素按照出栈的顺序入栈到output，再返回output栈顶。
+出队时，先调用peek（为了将input中的元素导入到output中），然后再从output栈pop。
+
 */
 
 
