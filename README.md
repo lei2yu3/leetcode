@@ -5,6 +5,7 @@
 | # | Problem | Solution |
 |:-:| :-----: | :------: |
 |  | []() | []() |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementStackUsingQueues.cs) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementQueueUsingStacks.cs) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/lygithub/leetcode/blob/master/AddTwoNumbers.cs) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [C#](https://github.com/lygithub/leetcode/blob/master/UglyNumber.cs) |
