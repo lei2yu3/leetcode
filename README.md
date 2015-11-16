@@ -4,6 +4,8 @@
 
 | # | Problem | Solution |
 |:-:| :-----: | :------: |
+|  | []() | []() |
+| 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C#](https://github.com/lygithub/leetcode/blob/master/BitwiseAndNumbersRange.cs) |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C#](https://github.com/lygithub/leetcode/blob/master/SimplifyPath.cs) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementStackUsingQueues.cs) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementQueueUsingStacks.cs) |
