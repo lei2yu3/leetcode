@@ -4,7 +4,7 @@
 
 | # | Problem | Solution |
 |:-:| :-----: | :------: |
-|  | []() | []() |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C#](https://github.com/lygithub/leetcode/blob/master/SimplifyPath.cs) |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementStackUsingQueues.cs) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C#](https://github.com/lygithub/leetcode/blob/master/ImplementQueueUsingStacks.cs) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C#](https://github.com/lygithub/leetcode/blob/master/AddTwoNumbers.cs) |
