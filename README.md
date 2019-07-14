@@ -6,6 +6,7 @@
 |:-:| :-----: | :------: |
 |  | []() | []() |
 |  | []() | []() |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C#](https://github.com/lei2yu3/leetcode/blob/master/LRUCache.cs) |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | [C#](https://github.com/lei2yu3/leetcode/blob/master/ValidNumber.cs) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C#](https://github.com/lei2yu3/leetcode/blob/master/RemoveNthNodeFromEndOfList.cs) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C#](https://github.com/lei2yu3/leetcode/blob/master/RemoveLinkedListElements.cs) |
